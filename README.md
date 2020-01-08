@@ -1,4 +1,4 @@
-## CursoNodeJS
+## Curso NodeJS
 Curso de introdução ao NodeJS, ministrado pela Rockeseat
 
 ## Api Node
